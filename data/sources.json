@@ -1,0 +1,43 @@
+[
+  {
+    "file": "phototest.tif",
+    "source": "https://raw.githubusercontent.com/tesseract-ocr/test/main/testing/phototest.tif",
+    "sha256": "d2241a1eb6d6cd2eb6544b8e228c2862c852b7467d16ed636caa32179b780692"
+  },
+  {
+    "file": "Test023.jpg",
+    "source": "https://github.com/BingshuCV/DocumentShadowRemoval/blob/master/Natural_Original.zip",
+    "sha256": "f4e94f30738949920077353ad74a8827cbc3f4ab66417b8272dd7abe9ffc37a5"
+  },
+  {
+    "file": "eurotext.tif",
+    "source": "https://raw.githubusercontent.com/tesseract-ocr/test/main/testing/eurotext.tif",
+    "sha256": "7b9bd14aba7d5e30df686fbb6f71782a97f48f81b32dc201a1b75afe6de747d6"
+  },
+  {
+    "file": "Test016.jpg",
+    "source": "https://github.com/BingshuCV/DocumentShadowRemoval/blob/master/Natural_Original.zip",
+    "sha256": "c8d5082ff625ef3540aa75cf1dd3752ae11c17298ed1e3d338b1ee67b29ea8a9"
+  },
+  {
+    "file": "chelsea.png",
+    "source": "https://raw.githubusercontent.com/scikit-image/scikit-image/v0.19.3/skimage/data/chelsea.png",
+    "sha256": "596aa1e7cb875eb79f437e310381d26b338a81c2da23439704a73c4651e8c4bb"
+  },
+  {
+    "file": "8087_054.3G.tif",
+    "source": "https://raw.githubusercontent.com/tesseract-ocr/test/main/testing/8087_054.3G.tif",
+    "sha256": "ab4db0234f906ea602f49fdcb44267143d645284f62ac11f3fc56a6efb08bf4d",
+    "preparation": "decoded levels 0 and17 mapped to 0 and255; crop (260,580,2270,980); resize1005x200 Lanczos"
+  },
+  {
+    "file": "doges_palace_960.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Doge%27s_Palace_Venice_sea_facade.jpg",
+    "download": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Doge%27s_Palace_Venice_sea_facade.jpg/960px-Doge%27s_Palace_Venice_sea_facade.jpg",
+    "author": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "sha256": "b6c5104b0ac8d82d82d21d89cf3b3bba917f816936539988c2280fc11b046207",
+    "preparation": "960x640 source rendition resized to720x480 Lanczos, saved JPEG95 as building.jpg"
+  }
+]
